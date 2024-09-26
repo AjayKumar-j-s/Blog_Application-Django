@@ -10,8 +10,9 @@ Tagging functionality for blog posts
 Pagination support
 Getting Started
 Prerequisites
-Make sure you have the following installed on your local development machine:
 
+Make sure you have the following installed on your local development machine:
+mysql
 Python 3.x
 Django
 Git
