@@ -54,7 +54,7 @@ Run the development server:
 bash
 Copy code
 python manage.py runserver
-The blog application should now be accessible at http://127.0.0.1:8000/.
+The blog application should now be accessible at http://127.0.0.1:"Port Number"/.
 
 Usage
 Visit the homepage to view the list of blog posts.
